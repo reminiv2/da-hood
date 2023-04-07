@@ -1,0 +1,28 @@
+local ejfgbdjs = game.Players
+local SDIKjFNIEJSMNFdiks = {
+    "7913B3BF-1182-48EC-A09D-1228A120C34F", -- trueonezz
+    "2689D387-B14E-4F03-8FD1-F006CEFE534B", -- dexx
+    "", -- jacob
+    "685F0D93-C38F-4379-BEA0-9507C9C6C4E1", -- preson
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+}
+if SDIKjFNIEJSMNFdiks[table.find(SDIKjFNIEJSMNFdiks,game:GetService("RbxAnalyticsService"):GetClientId())] == game:GetService("RbxAnalyticsService"):GetClientId() then
+    
+    else
+    ejfgbdjs.LocalPlayer:Kick("Error: 624")
+end
